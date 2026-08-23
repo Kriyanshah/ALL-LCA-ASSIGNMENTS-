@@ -4,7 +4,7 @@
 # Operations on List, Tuple and Dictionary
 
 
-# OPERATIONS ON LISTS
+                                                    # OPERATIONS ON LISTS
 
 
 
@@ -36,7 +36,7 @@ print("After sorting:", numbers)
 print("------END OF LIST OPERATIONS ------\n")
 
 
-## OPERATIONS ON TUPLES
+                                                    # OPERATIONS ON TUPLES
 
 
 print("----- TUPLE OPERATIONS -----")
@@ -68,7 +68,7 @@ print("Repeated tuple:", repeated_tuple)
 print("------END OF TUPLE OPERATIONS ------\n")
 
 
-## OPERATIONS ON DICTIONARY
+                                                    # OPERATIONS ON DICTIONARY
 
 
 print("----- DICTIONARY OPERATIONS -----")
