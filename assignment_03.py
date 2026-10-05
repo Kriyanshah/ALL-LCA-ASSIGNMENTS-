@@ -15,4 +15,4 @@ def triangle(x,y,z):
 if triangle(x,y,z):
     print("Right angle triangle")
 else:
-    print("Not a right agnle triangle")
+    print("Not a right angle triangle")
