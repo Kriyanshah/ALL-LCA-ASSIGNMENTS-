@@ -45,13 +45,13 @@ import numpy as np
 A = np.array(A)
 B = np.array(B)
 
-C = A+B
+D = A+B
 print("\nMatrix A: ")
 print(A)
 print("\nMatrix B: ")
 print(B)
 print("\nMatrix A+B: ")
-print(C)
+print(D)
 
 
 
