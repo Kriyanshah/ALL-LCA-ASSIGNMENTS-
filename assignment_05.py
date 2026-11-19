@@ -1,8 +1,10 @@
-# Assignment No.5
+# Assignment 5
 
-string = input("Enter your string :")
+import re
 
-if string.isalnum() == True:
-    print("Yes, it contains characters only from the given set.")
+string = input("Enter a string: ")
+
+if re.fullmatch(r'[a-zA-Z0-9]+', string):
+    print("String contains only allowed characters.")
 else:
-    print("No, it contains other characters apart from the given set")
+    print("String contains invalid characters.")
