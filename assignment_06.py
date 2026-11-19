@@ -1,5 +1,5 @@
 import pandas as pd
-#Step : 1 : read the file
+#Step : 1 : Read the file
 df = pd.read_csv("C:/Users/kriya/Downloads/Titanic-Dataset.csv")
 
 # Step : 2 : dataset dimensions
