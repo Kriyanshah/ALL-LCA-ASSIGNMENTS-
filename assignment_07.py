@@ -37,7 +37,7 @@ plt.show()
 
 
 
-# scatter plot of [Age vs Fare], [pclass vs Fare], [Pclass vs age]
+# scatter plot of [Age vs Fare], [Pclass vs Fare], [Pclass vs age]
 
 data = df.dropna(subset=["Age", "Fare"])
 
